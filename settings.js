@@ -14,8 +14,7 @@ global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&sc
 global.namabot = "Patrick" // UBAH JADI NAMA LU
 global.namaowner = "Rasya" // NAMA OWNER
 global.footer_text = "© PatrickBot MD" + namabot // NAMA BOT
-global.pp_bot = fs.readFileSync("./image/allmenubot.jpg") // FOTO BOT MAX 50KB BIAR GA DELAY
-global.qris = fs.readFileSync("./image/qris.jpg") // FOTO QRIS MAX 50KB BIAR GA DELLAY
+
 global.owner = ['6285735980188'] // UBAH NOMOR YANG MAU DI JADIKAN OWNER
 // PEMISAH \\
 global.sessionName = 'session' // GAK USAH UBAH
@@ -25,7 +24,7 @@ global.donasi = ("JANGAN LUPA DONASI BANG") // QRIS SAMA FOTO DONASI UDAH CONNEC
 global.script = ("https://youtu.be/GyHK5BVyBeQ NO ENC ? BUY") // BEBAS ASAL JAN HAPUS
 global.fakelink = "-" // bebas asal jan hapus
 global.grubbot = (`-`) // GANTI LINK GRUB BOT LU \\
-global.gabolehtoxic = ("./gabolehtoxic.mp3")
+
 global.wait = '_*Loading . . .*_'
 // FALSE OR TRUE \\
 global.premium = false // UBAH JADI TRUE AGAR SEMUA FITUR KHUSUS PREMIUM
