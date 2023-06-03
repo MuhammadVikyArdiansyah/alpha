@@ -1,0 +1,568 @@
+{
+  "users": {
+    "916909137213@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    },
+    "46731298305@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    },
+    "919402104403@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    },
+    "46731298303@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    },
+    "6285735980188@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6282344484441@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6285815212637@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6281946537020@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "628975056328@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6289649822611@s.whatsapp.net": {
+      "afkTime": 1684602284637,
+      "afkReason": "tydur",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "628999102905@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 1,
+      "pc": 0
+    },
+    "6283842007525@s.whatsapp.net": {
+      "afkTime": 1684409571795,
+      "afkReason": "",
+      "limit": 12
+    },
+    "6287743845319@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 1,
+      "pc": 0
+    },
+    "6282181570931@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6283177711783@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282331871615@s.whatsapp.net": {
+      "afkTime": 1684600023714,
+      "afkReason": "yang tawu tawu ajah",
+      "limit": 12,
+      "warning": 2,
+      "pc": 0
+    },
+    "6288223465127@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": -664,
+      "pc": 0
+    },
+    "6285643108549@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6281211397062@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282346025438@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 2
+    },
+    "6287816958357@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6281393319010@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "628989357715@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12
+    },
+    "6287848637284@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282320922337@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6281392763520@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 1
+    },
+    "6285295006927@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6285726009625@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 1
+    },
+    "6287704246192@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 1
+    },
+    "6282264850242@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6281236282533@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6288247205884@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282257611370@s.whatsapp.net": {
+      "afkTime": 1684604342379,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6287850547833@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6285786958982@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "628877183661@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6287840733514@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282399019360@s.whatsapp.net": {
+      "afkTime": 1684575381084,
+      "afkReason": "Setiap gw login lu langsung pada off, ketika gw off yg lain pada mabar, iya gw tau gw cupu sering cokelat paling jago gw silver, tapi pliss hargai perasaan gwe, gwe cuman ingin mabar sma kalian\n\niya gwe tau gwe suka blunder, tpi emg bener point lu lebih berharga dari prasaan gwe ☺️☺️\n\nOk gw ngerti gw tau kalian di belakang ngomongin gw terus\nYa wajar aja karena gw emang cupu \nTapi gw juga pengen berkembang biar jago kek kalian\nMakanya ge selalu minta slot 😊\nNyatanya apa gw cuma babu di sini\n\niya gw tau cuma beban,gw sadar diri belom jago kaya kalian. makasih banget udah nginvite gw seenggak nya gw udah pernah main bareng sama pro player\nsorry buat kalian mines point banyak ☺️😊\n\ngua tuh udh bela belain instal ml\nbiar bisa mabar sama lo pada\nbiar bisa lebih akrab\nnyatanya apa???\nkagak ada yg maen\ngua ngajak g da yg mau\niya gua sadar diri gua noob\nhero gua masih dikit\ndan juga ga pantes mabar sama lo pada yg udh pro\niyah gua tau diri\nmulai skrng gua g akan mabar lagigua tuh udh bela belain instal ml\nbiar bisa mabar sama lo pada\nbiar bisa lebih akrab\nnyatanya apa???\nkagak ada yg maen\ngua ngajak g da yg mau\niya gua sadar diri gua noob\nhero gua masih dikit\ndan juga ga pantes mabar sama lo pada yg udh pro\niyah gua tau diri\nmulai skrng gua g akan mabar lagi",
+      "limit": 12,
+      "warning": 0
+    },
+    "6285863233514@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6285732816224@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6283834142313@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6283122242307@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6282126603467@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6281234059387@s.whatsapp.net": {
+      "afkTime": 1684549070379,
+      "afkReason": "turu neh",
+      "limit": 12,
+      "warning": 0
+    },
+    "6283869127720@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6283141280371@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6281361110046@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6283806065497@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "62895322369566@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "628992454445@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6283108834320@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6285924606242@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282126388520@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6289504542832@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282386253212@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6285783581939@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6289657296247@s.whatsapp.net": {
+      "afkTime": 1684500004401,
+      "afkReason": "sfonk mmr",
+      "limit": 12,
+      "warning": 0
+    },
+    "6285156258673@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6289668104595@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6288221220574@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "62895617812700@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6281225972832@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "628988372373@s.whatsapp.net": {
+      "afkTime": 1684513440665,
+      "afkReason": "berak",
+      "limit": 12,
+      "warning": 0
+    },
+    "6285221629757@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6283821262601@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "60194360429@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282368842150@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282302282964@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6283198475969@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282286985921@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6285334916553@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6283187115104@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6282361119743@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0
+    },
+    "6283830738141@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 1,
+      "pc": 0
+    },
+    "6283890553369@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6281339235988@s.whatsapp.net": {
+      "afkTime": 1684578211833,
+      "afkReason": "mau mengalahkan raja iblis di isekai serta memanggil arwah roh penunggu sucrhoisukedu, dan akan membawa kejayaan di isekai",
+      "limit": 12,
+      "warning": 0
+    },
+    "62895618388409@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6282144670832@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6288296184969@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "6285697817082@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    },
+    "628886047377@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 12,
+      "warning": 0,
+      "pc": 0
+    }
+  },
+  "chats": {
+    "916909137213-1632759248@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "6281545463585@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "120363047626537933@g.us": {
+      "mute": false,
+      "antilink": false
+    },
+    "916909137213@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    },
+    "919402104403@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "46731298305@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    },
+    "46731298303@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "templateImage": true,
+      "templateVideo": false,
+      "templateGif": false,
+      "templateMsg": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
