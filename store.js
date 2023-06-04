@@ -735,8 +735,8 @@ alpha.sendTextWithMentions(m.chat, caption, m)
 					'contactMessage': {
 						'displayName': `${pushname}`,
 						'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
-						'jpegThumbnail': 'https://telegra.ph/file/040649522ca65c3472199.jpg',
-						thumbnail: 'https://telegra.ph/file/040649522ca65c3472199.jpg',
+						'jpegThumbnail': 'nothing,
+						thumbnail: 'nothing',
 						sendEphemeral: true
 					}
 				}
@@ -1837,8 +1837,33 @@ reply(output + `_*Total:*_ ${count -1}`);
               }
                 break
         case "ai-img": {
-        reply('fitur ini telah dinonaktifkan')
+        try {
+            if (rasya.keyopenai === "ISI_APIKEY_OPENAI_DISINI") return reply("Apikey belum diisi\n\nSilahkan isi terlebih dahulu apikeynya di file key.json\n\nApikeynya bisa dibuat di website: https://beta.openai.com/account/api-keys");
+            if (!text) return reply(`Membuat gambar dari AI.\n\nContoh:\n${prefix}${command} Wooden house on snow mountain`);
+            reply("Wait... if no response means error")
+            const configuration = new Configuration({
+              apiKey: rasya.keyopenai,
+            });
+            const openai = new OpenAIApi(configuration);
+            const response = await openai.createImage({
+              prompt: text,
+              n: 1,
+              size: "512x512",
+            });
+            //console.log(response.data.data[0].url)
+        alpha.sendMessage(m.chat, { image: { url: response.data.data[0].url }, caption: text }, { quoted: m });
+            } catch (error) {
+          if (error.response) {
+            console.log(error.response.status);
+            console.log(error.response.data);
+            console.log(`${error.response.status}\n\n${error.response.data}`);
+            m.reply("Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.");
+          } else {
+            console.log(error);
+            m.reply("Maaf, sepertinya ada yang error :"+ error.message);
           }
+        }
+      }
           break;
        case 'warn': {
         let mention = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : false
@@ -2564,9 +2589,37 @@ alpha.sendMessage(m.chat, { image: { url: json.result.profilePicHD }, caption: s
  }
 }
 break
-                     case "ai": case "openai": {
-               reply(`Fitur Ini Tealh Dinonaktifkan`)
-              }
+                     case "ai": case "openai": 
+               try {
+            if (rasya.keyopenai === "ISI_APIKEY_OPENAI_DISINI") return reply("Apikey belum diisi\n\nSilahkan isi terlebih dahulu apikeynya di file key.json\n\nApikeynya bisa dibuat di website: https://beta.openai.com/account/api-keys");
+            if (!text) return reply(`Chat dengan AI.\n\nContoh:\n${prefix}${command} Apa itu resesi`);
+            reply("Wait... if no response means error")
+            const configuration = new Configuration({
+              apiKey: rasya.keyopenai,
+            });
+            const openai = new OpenAIApi(configuration);
+
+            const response = await openai.createCompletion({
+              model: "text-davinci-003",
+              prompt: text,
+              temperature: 0, // Higher values means the model will take more risks.
+              max_tokens: 2048, // The maximum number of tokens to generate in the completion. Most models have a context length of 2048 tokens (except for the newest models, which support 4096).
+              top_p: 1, // alternative to sampling with temperature, called nucleus sampling
+              frequency_penalty: 0.3, // Number between -2.0 and 2.0. Positive values penalize new tokens based on their existing frequency in the text so far, decreasing the model's likelihood to repeat the same line verbatim.
+              presence_penalty: 0 // Number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics.
+          });
+            m.reply(`${response.data.choices[0].text}`);
+          } catch (error) {
+          if (error.response) {
+            console.log(error.response.status);
+            console.log(error.response.data);
+            reply(`${error.response.data}`);
+             console.log(`${error.response.status}\n\n${error.response.data}`);
+          } else {
+            console.log(error);
+            m.reply("Maaf, sepertinya ada yang error :"+ error.message);
+          }
+        }
           break;
         case 'tiktok': case 'ttdl': case 'tiktokmp4': case 'tt': {
           if (!text) return m.reply( `Example : ${prefix + command} link`)
