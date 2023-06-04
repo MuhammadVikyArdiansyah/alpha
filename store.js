@@ -735,8 +735,8 @@ alpha.sendTextWithMentions(m.chat, caption, m)
 					'contactMessage': {
 						'displayName': `${pushname}`,
 						'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${pushname},;;;\nFN:${pushname},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`,
-						'jpegThumbnail': 'nothing,
-						thumbnail: 'nothing',
+						'jpegThumbnail': 'https://telegra.ph/file/744b774cf88b1338bd555.jpg',
+						thumbnail: 'https://telegra.ph/file/744b774cf88b1338bd555.jpg',
 						sendEphemeral: true
 					}
 				}
